@@ -1,0 +1,10 @@
+* lazy
+
+Lazy forms in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/massung/lazy.git   |
+| commit  | fa6ec5f  |
+| systems | lazy |
+|---------+-------------------------------------------|
+
