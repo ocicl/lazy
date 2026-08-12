@@ -8,4 +8,4 @@ Lazy forms in Common Lisp
 | systems | lazy |
 |---------+-------------------------------------------|
 
- 
+  
